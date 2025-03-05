@@ -420,3 +420,7 @@ def DenseResNet1D(input_shape = (2048,6), classes = 3):
     return model
 
 model = DenseResNet1D(input_shape = (2048, 6), classes = 3)
+
+
+
+#not ecg 
